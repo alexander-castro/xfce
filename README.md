@@ -28,5 +28,12 @@ Settings -> Windows Manager -> Style -> Nordic
 - Icons Tela
 
 `git clone https://github.com/vinceliuice/Tela-icon-theme.git`
+`cd Tela-icon-theme`
 `./install.sh`
 Settings -> Aparence -> Icons -> Tela Dark
+
+- Terminal colors
+
+`git clone https://github.com/arcticicestudio/nord-xfce-terminal.git`
+`cd nord-xfce-terminal`
+`./install.sh`
