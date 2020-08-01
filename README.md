@@ -38,3 +38,6 @@ Settings -> Aparence -> Icons -> Tela Dark
 `cd nord-xfce-terminal`
 `./install.sh`
 Terminal -> Edit -> Preferences -> Colors -> Presets -> Nord
+
+- Launcher 
+https://ulauncher.io/
