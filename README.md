@@ -2,6 +2,8 @@
 
 - Install Chrome
 https://www.google.com/chrome/
+-Visual Studio Code
+https://go.microsoft.com/fwlink/?LinkID=760868
 
 - Plank
 
