@@ -33,6 +33,7 @@ Settings -> Windows Manager -> Style -> Nordic
 `cd Tela-icon-theme`
 `./install.sh`
 Settings -> Aparence -> Icons -> Tela Dark
+Font: Ubuntu
 
 - Terminal colors
 
@@ -50,6 +51,7 @@ Terminal -> Edit -> Preferences -> Colors -> Presets -> Nord
 
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting`
+Font: Source code pro - 11
 
 - Launcher 
 https://ulauncher.io/
