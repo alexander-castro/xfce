@@ -37,3 +37,4 @@ Settings -> Aparence -> Icons -> Tela Dark
 `git clone https://github.com/arcticicestudio/nord-xfce-terminal.git`
 `cd nord-xfce-terminal`
 `./install.sh`
+Terminal -> Edit -> Preferences -> Colors -> Presets -> Nord
