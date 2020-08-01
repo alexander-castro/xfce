@@ -41,3 +41,4 @@ Terminal -> Edit -> Preferences -> Colors -> Presets -> Nord
 
 - Launcher 
 https://ulauncher.io/
+Theme: Elementary Dark
