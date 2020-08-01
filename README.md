@@ -44,3 +44,6 @@ Terminal -> Edit -> Preferences -> Colors -> Presets -> Nord
 - Launcher 
 https://ulauncher.io/
 Theme: Elementary Dark
+
+- Wallpaper
+https://wallhaven.cc/w/2em38y
